@@ -1,0 +1,11 @@
+{
+    "description": "The Domain for the Taskforce Media Group Website",
+    "repo": "https://github.com/taskforcemg/taskforcemg.is-a.dev",
+    "owner": {
+        "username": "Diablo2009",
+        "email": "talonmw@outlook.com"
+    },
+    "record": {
+        "CNAME": "taskforcemg.github.io"
+    }
+}
